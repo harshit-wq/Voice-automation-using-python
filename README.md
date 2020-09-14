@@ -9,7 +9,7 @@ wikipedia
 webbrowser 
 
 This so far does following task just by revieving microphone input->
-1- Fethes two sentenses from wikipidea regarding the query 
+1- Fetches two sentenses from wikipidea regarding the query 
   the input voice format "Search -------------- wikipedia" the "--" is filled with the intersted query to be searched
   
 2- open youtube in browser by query "open youtube"
